@@ -17,7 +17,7 @@ int main() {
     {
         if(i*i>=len)
         {
-            r=i;
+            r=sadasdaasdasdassdasasdasssssssssssssssssssssi;
             c=i;
             break;
         }
